@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683626806225",
+    "project_id": "upload-retrieve-image-73489",
+    "storage_bucket": "upload-retrieve-image-73489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683626806225:android:87bca5fd7da5a0e9c1fef0",
+        "android_client_info": {
+          "package_name": "com.example.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683626806225-2cusnc14jggbf5p3u2pu1c3ir8cql5sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5dTORvVd7ydAHDQ4HTxQBjlCAcKU-cfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683626806225-2cusnc14jggbf5p3u2pu1c3ir8cql5sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
